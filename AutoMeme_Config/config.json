@@ -1,0 +1,12 @@
+{
+    "volume": 100,
+    "input_device": null,
+    "output_device": null,
+    "hotkey": "alt+m",
+    "stop_hotkey": "alt+p",
+    "screen_ocr_enabled": true,
+    "microphone_detection_enabled": true,
+    "speaker_detection_enabled": true,
+    "use_gpu": true,
+    "auto_start": false
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "keyword": "\u9e21",
+        "audio": "sounds/\u4f60\u5e72\u561b.mp3"
+    },
+    {
+        "keyword": "\u9f99",
+        "audio": "sounds/\u9f99\uff0c\u53ef\u662f\u5e1d\u738b\u4e4b\u5f81\u554a.mp3"
+    },
+    {
+        "keyword": "\u606d\u559c",
+        "audio": "sounds/\u606d\u559c\u7239\u53ef\u4ee5\u79f0\u5e1d\u4e86.mp3"
+    },
+    {
+        "keyword": "\u6211\u662f\u5976\u519c",
+        "audio": "D:/\u505a\u89c6\u9891/\u5168\u81ea\u52a8\u73a9\u6897\u5668/\u7d20\u6750/\u6211\u624d\u662f\u5976\u9f99.mp3"
+    }
+]
