@@ -61,8 +61,7 @@
    git clone https://github.com/PizzaDark/AutoMemeDetector.git
    cd AutoMemeDetector
    ```
-```
-   
+
 2. **安装依赖**
    ```bash
    # 推荐python3.10
@@ -71,7 +70,8 @@
    source .venv/bin/activate #macOS/Linux
    
    pip install -r requirements.txt
-```
+   ```
+
 
 3. **准备模型**
    - 下载 [vosk-model-small-cn-0.22](https://alphacephei.com/vosk/models)
@@ -174,8 +174,3 @@ pyinstaller main.spec
 
 本项目仅供学习交流使用，禁止商用或贩卖，音频版权归音频原作者所有。
 Vosk 模型请遵循其官方许可证。
-
----
-
-- **B 站：[@依然匹萨吧](https://space.bilibili.com/6297797)**
-- **GitHub: [PizzaDark](https://github.com/PizzaDark)**

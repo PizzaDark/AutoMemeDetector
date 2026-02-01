@@ -1250,7 +1250,7 @@ if __name__ == "__main__":
     
     # 2. 若需手动调整缩放比例 (例如感觉界面太小，想强制放大 1.25 倍)
     # 请取消下一行的注释，并修改数值 (1.0 = 100%, 1.5 = 150%)
-    os.environ["QT_SCALE_FACTOR"] = "0.75"
+    # os.environ["QT_SCALE_FACTOR"] = "0.75"
 
     # 简单的单实例锁（端口检测法太麻烦，这里仅做简易入口）
     app = QApplication(sys.argv)
